@@ -1,2 +1,2 @@
 # Giphy-Searcher
-This Repository holds  Vanilla Giphy Searching Application.
+This Repository holds   Giphy Searching Application in Vanilla-JS.
